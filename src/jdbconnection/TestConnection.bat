@@ -1,0 +1,1 @@
+java -classpath ".;ojdbc6_g-11.2.0.3.0.jar" DBConnection 10.113.47.208 1528 monetaweb_dev welcome123 ora11g oracle.jdbc.driver.OracleDriver
